@@ -8,7 +8,7 @@
 * Install Docker
 * Pull tensorflow image
     ```
-    Docker pull tensorflow/tensorflow
+    docker pull tensorflow/tensorflow
     ```
 * Clone this app
     ```
