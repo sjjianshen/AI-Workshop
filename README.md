@@ -15,6 +15,7 @@
     git clone git@github.com:sj15291864789/AI-Workshop.git && cd AI-Workshop
     ```
 * Start
-    ``` docker run -it -p 8888:8888 -v $(pwd)/exercise:/notebooks/ tensorflow/tensorflow
+    ``` 
+    docker run -it --rm -p 8888:8888 -v $(pwd)/exercise:/notebooks/ tensorflow/tensorflow
     ```
 
