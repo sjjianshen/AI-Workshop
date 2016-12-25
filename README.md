@@ -6,13 +6,13 @@
 
 ### Start
 * Install Docker
-* Pull tensorflow image
-    ```
-    docker pull tensorflow/tensorflow
-    ```
 * Clone this repo cd to the root directory of the repo
     ```
     git clone git@github.com:sj15291864789/AI-Workshop.git && cd AI-Workshop
+    ```
+* Pull tensorflow image
+    ```
+    docker pull tensorflow/tensorflow
     ```
 * Start
     ``` 
