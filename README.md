@@ -18,4 +18,7 @@
     ``` 
     docker run -it --rm -p 8888:8888 -v $(pwd)/exercise:/notebooks/ tensorflow/tensorflow
     ```
+### Python and numpy
+If you are not familar with python numpy, please refer to this tutorial https://docs.scipy.org/doc/numpy-dev/user/quickstart.html or http://cs231n.github.io/python-numpy-tutorial/
+
 
