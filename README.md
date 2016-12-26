@@ -16,11 +16,11 @@
     ```
 * Pull tensorflow image
     ```
-    docker pull tensorflow/tensorflow
+    docker pull jianshen/tensorflow
     ```
 * Start
     ``` 
-    docker run -it --rm -p 8888:8888 -v $(pwd)/exercise:/notebooks/ tensorflow/tensorflow
+    docker run -it --rm -p 8888:8888 -v $(pwd)/exercise:/notebooks/ jianshen/tensorflow
     ```
  
  
